@@ -1,8 +1,8 @@
 {
-    "plugins":["disqus"],
-    "pluginsConfig":{
-        "disqus":{
-        "shortName":"learningpy"
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "learningpy"
         }
     }
 }
