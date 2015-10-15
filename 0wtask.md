@@ -3,7 +3,7 @@
 
 *   技术要点：
     * 生成1-100随机数
-    > random.randint(1,100),使用random方法需要在代码最开始导入包：import random
+    > random.randint(1,100),使用random方法需要在代码最开始的地方导入包：import random
     * 从命令行获取玩家输入的字符串并转化成整数（能否直接获取输入整数类型？）
     > raw_input()
     * 
