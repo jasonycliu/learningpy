@@ -3,6 +3,8 @@
 
 程序运行的时候随机生成一个1-100的随机数，用命令行的形式提示玩家输入猜测的数字，根据输入的数字与随机数做减法得到一个值，值越小则得分越高。
 
+[github](https://github.com/jasonycliu/OMOOC2py/blob/master/_src/om2py0w/0wex0/main.py)
+
 ## 技术要点： 
 
    * 生成1-100随机数:random.randint(1,100),使用random方法需要在代码最开始的地方导入包：import random 
