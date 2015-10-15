@@ -1,3 +1,3 @@
-# 测试github自动推送更新到gitbook
+# 记录每周作业
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+3个月后的自己和现在相比有何提升，相信gitbook的记录会体现出来。
